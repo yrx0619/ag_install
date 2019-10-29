@@ -18,3 +18,5 @@ cd the_silver_searcher-master/
 
 sudo make install
 
+ag --version
+
