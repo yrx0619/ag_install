@@ -1,3 +1,4 @@
+sudo yum install automake
 os="`python -mplatform | grep Ubuntu`"
 if [ $os ]
 then
